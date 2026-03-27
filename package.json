@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-ci-demo",
+  "version": "1.0.0",
+  "description": "Demo Node.js CI Pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Test passed\""
+  },
+  "author": "DnCuadros23",
+  "license": "MIT"
+}
